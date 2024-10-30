@@ -54,6 +54,7 @@ section.Conoce div.Subtitulo{
     border-style: none;
     background: #90A955;
     color: white;
+    margin: auto;
 }
 
 section.Conoce div.Info{
